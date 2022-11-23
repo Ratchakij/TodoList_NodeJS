@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "title": "Lunch",
+    "completed": true,
+    "dueDate": "2022-11-31",
+    "id": "0900f022-f9e8-4e1f-8646-c8b04e2dd605"
+  }
+]
